@@ -1,0 +1,10 @@
+.todoheader{
+color: aqua;
+background-color: brown;
+}
+
+.todobutton{
+    color: black;
+    margin: 10px;
+    background-color: gray;
+}
